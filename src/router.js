@@ -6,8 +6,8 @@ import ReusablilityExample from "./views/ReusablilityExample";
 Vue.use(Router);
 
 const routes = [
-  { path: "/component", component: SingleFileComponent },
-  { path: "/reusability", component: ReusablilityExample }
+  { path: "/sfc", component: SingleFileComponent },
+  { path: "/re", component: ReusablilityExample }
 ];
 
 export default new Router({
