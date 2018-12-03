@@ -15,4 +15,6 @@ export default {
 <style lang="sass" scoped>
 .coloredTitle
   color: #d4d800
+  font-weight: light
+  font-size: 35px
 </style>

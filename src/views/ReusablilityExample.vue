@@ -17,3 +17,19 @@ export default {
   }
 };
 </script>
+
+<style lang="sass" scoped>
+
+*
+  color: #d4d800
+  
+h1
+  font-weight: 300
+  font-size: 35px
+  margin-bottom: 10px
+
+p
+  font-size: 30px
+
+</style>
+
